@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: PhD Student, University of Toronto, Department of Computer Science.
 
@@ -12,12 +12,10 @@ profile:
     <p>10 King's College Road</p>
     <p>Toronto, ON, M5S-3G4</p>
 
-news: true  # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-Hello Dad
 
 Write your biography here. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. , just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
