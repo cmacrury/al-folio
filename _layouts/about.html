@@ -19,6 +19,7 @@ layout: default
         <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
       {% endif %}
       {% if page.profile.address %}
+	  <!-- Remove div if want to change font style of address -->
         <div class="address">
           {{ page.profile.address }}
         </div>
@@ -45,5 +46,5 @@ layout: default
     </div>
     {% endif %}
   </article>
-
+  
 </div>
